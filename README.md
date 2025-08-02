@@ -29,10 +29,10 @@ git clone
 cd springboot-basic-auth
 
 Configure application.properties:
+
 spring.datasource.url=jdbc:mysql://localhost:3306/spring_basic_auth
 spring.datasource.username=root
 spring.datasource.password=12Root@
-
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
