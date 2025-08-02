@@ -23,7 +23,7 @@ This project demonstrates how to secure REST APIs using **Basic Authentication**
  ## Getting Start
 🔧 Setup
 Clone the repo:
-  https://github.com/your-username/springboot-basic-auth.git
+https://github.com/Hadawale15/Spring-Basic-Auth-Security
 
 git clone
 cd springboot-basic-auth
