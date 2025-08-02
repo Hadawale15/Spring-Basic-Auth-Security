@@ -19,5 +19,3 @@ This project demonstrates how to secure REST APIs using **Basic Authentication**
 - Spring Data JPA
 - BCryptPasswordEncoder
 - MySQL
-## 📦 Project Structure
-
